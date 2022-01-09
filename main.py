@@ -1,3 +1,7 @@
+class Leha:
+    pass
+
+
 class Sancho:
     pass
 
