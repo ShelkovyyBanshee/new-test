@@ -1,0 +1,2 @@
+class Miha:
+    pass
